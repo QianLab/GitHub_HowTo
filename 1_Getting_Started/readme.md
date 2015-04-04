@@ -4,13 +4,16 @@ Step 1: Make a personal account at https://github.com/ with your @tamu.edu email
 
 Explanation: just do it.
 
+
 Step 2: Now go to: https://education.github.com/ to request free private repos.
 
 Explanation: It may take several days, so apply as soon as possible.
 
+
 Step 3: Send me your GibHub ID, and I will add you in our GitHub QianLab orgnaizaiton account. 
 
 Explanation: There are two types of accounts personal and organizational. If you completed step 2 correctly you will  have several private repos. The QianLab organization has a maximum of 20 private repositories.
+
 
 Step 4: Finally you will need some way to upload your files to GitHub. 
 
